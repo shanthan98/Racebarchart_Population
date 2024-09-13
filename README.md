@@ -1,4 +1,4 @@
-# Race Bar Chart Visualization for Canada's Population (1971-2001)
+# Race Bar Chart Visualization for Canada's Population (1971-2021)
 
 This project creates a race bar chart visualization of the population of Canada over the years. The animation dynamically displays the population distribution across different age groups and sexes over time.
 
@@ -117,6 +117,7 @@ By setting the animation FPS to a lower rate (10 frames per second) and fine-tun
 ### Final Visualization:
 
 [Racebar Chart](https://github.com/shanthan98/Racebarchart_Population/blob/main/assets/images/canadapop_racebarchart.gif)
+[](https://github.com/shanthan98/Racebarchart_Population/blob/main/assets/images/Racechart.png)
 
 
 
