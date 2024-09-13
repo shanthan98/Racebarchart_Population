@@ -55,4 +55,5 @@ from matplotlib.animation import FuncAnimation, PillowWriter
 # Load dataset
 df = pd.read_csv('Canada_pop.csv')
 ```
-##
+##Race bar chart Implementation:
+#Steps
