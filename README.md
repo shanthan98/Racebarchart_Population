@@ -116,8 +116,7 @@ By setting the animation FPS to a lower rate (10 frames per second) and fine-tun
 
 ### Final Visualization:
 
-[Racebar Chart](https://github.com/shanthan98/Racebarchart_Population/blob/main/assets/images/canadapop_racebarchart.gif)
-[](https://github.com/shanthan98/Racebarchart_Population/blob/main/assets/images/Racechart.png)
+![Racebar Chart](https://github.com/shanthan98/Racebarchart_Population/blob/main/assets/images/canadapop_racebarchart.gif)
 
 
 
