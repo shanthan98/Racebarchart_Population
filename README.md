@@ -1,4 +1,4 @@
-# Race Bar Chart Visualization for Canada's Population (1980-2001)
+# Race Bar Chart Visualization for Canada's Population (1971-2001)
 
 This project creates a race bar chart visualization of the population of Canada over the years. The animation dynamically displays the population distribution across different age groups and sexes over time.
 
