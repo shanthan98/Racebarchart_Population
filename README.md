@@ -1,6 +1,6 @@
 # Race Bar Chart Visualization for Canada's Population (1971-2021)
 
-![Repository Visits](https://komarev.com/ghpvc/?username=shanthan98&repo=Racebarchart_Population&color=green)
+![Repository Views](https://img.shields.io/badge/Repository-Visits-blue)
 
 This project creates a race bar chart visualization of the population of Canada over the years. The animation dynamically displays the population distribution across different age groups and sexes over time.
 
